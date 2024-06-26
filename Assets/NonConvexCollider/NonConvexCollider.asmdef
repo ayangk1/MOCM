@@ -1,0 +1,8 @@
+{
+    "name": "NonConvexCollider",
+    "references": [
+        "NonConvexColliderRuntimeAPI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

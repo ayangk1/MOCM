@@ -1,0 +1,11 @@
+{
+    "name": "NonConvexColliderRuntimeAPI",
+    "references": [],
+    "includePlatforms": [
+        "Editor",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": []
+}

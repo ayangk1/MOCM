@@ -1,0 +1,11 @@
+{
+    "name": "NonConvexEditor",
+    "references": [
+        "NonConvexCollider",
+        "NonConvexColliderRuntimeAPI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
